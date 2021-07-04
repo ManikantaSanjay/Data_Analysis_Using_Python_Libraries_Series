@@ -13,5 +13,5 @@ This Series contains various Data Analysis projects of different Kaggle datasets
 #### ->numpy 
 #### ->pandas
 #### ->matplotlib
-### iv>Jupyter Notebook File :
+### iv>Google Collab Notebook File :
 #### https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/Facebook_Data_Analysis.ipynb

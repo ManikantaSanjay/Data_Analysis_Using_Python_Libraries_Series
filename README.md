@@ -1,21 +1,23 @@
 # Data_Analysis_Using_Python_Libraries_Series
 This Series contains various Data Analysis projects of different Kaggle datasets and providing insights of the dataset by making use of various Python libraries.
 ## 1> Facebook Data Analytics
-### i>Dataset :
+### :one: Dataset :
 #### https://www.kaggle.com/sheenabatra/facebook-data
-### ii>Processes Involved :
+### 2️⃣ Processes Involved :
 #### ->Data Preparation and Cleaning
 #### ->Exploratory Analysis and Visualization
 #### ->Questions and Answers
 #### ->Inferences and Conclusion
-### iii>Libraries Used :
+### :three: Libraries Used :
 #### ->opendatasets - It is a Python library for downloading datasets from online sources like Kaggle and Google Drive.
 #### ->numpy 
 #### ->pandas
 #### ->matplotlib
-### iv>Google Collab Notebook File :
+### :four: Google Collab Notebook File :
+Navigate to the Below Link: :point_down:
 #### https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/Facebook_Data_Analysis.ipynb
 
+Click on  <b>Open in Collab</b>  at the top and fork it.
 ## 2> Data Analytics On Zomato Restaurants
 ### i>Content in Dataset :
 -> Restaurant Id
@@ -99,10 +101,10 @@ Q7: Understaning about Common Eateries ?
 #### We've drawn many inferences from the survey and we discuss them in this part of the project.
 
 ### vii> Steps to Use :
-Navigate to the Below Link:
+Navigate to the Below Link: :point_down:
 #### https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/Data_Analysis_on_Restaurants_Listed_In_Zomato.ipynb
 
-Click on  Open in Collab  at the top and fork it.
+Click on  <b>Open in Collab</b>  at the top and fork it.
 
 ## Add a star 🌟 to the repo if u like it.:smiley: Thank You :v:
 

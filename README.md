@@ -104,5 +104,5 @@ Navigate to the Below Link:
 
 Click on  Open in Collab  at the top and fork it.
 
-#### Add a star 🌟 to the repo if u like it. 
+## Add a star 🌟 to the repo if u like it.:smiley: Thank You :v:
 

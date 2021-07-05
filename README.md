@@ -69,7 +69,7 @@ Click on  <b>Open in Collab</b>  at the top and fork it.
 ### 3️⃣ Importing Dataset : 
 #### By making use of the pandas library we import the dataset into a pandas dataframe.
 
-### 4️⃣ Exploratory Analysis and Visualization:
+### 4️⃣ Exploratory Analysis and Visualization :
 It deals with  the following aspects : 
 #### -> Understanding the Geographical Spread 
 #### -> Understanding the Rating Aggregate, Color and Text
@@ -77,7 +77,7 @@ It deals with  the following aspects :
 #### -> Understanding the Online Delivery Distribution
 #### -> Understanding the Coverage of the City
 
-### 5️⃣ Asking and Answering Questions:
+### 5️⃣ Asking and Answering Questions :
 
 #### After understanding the several insights about the restaurants present in the survey, we try to answer them using data frame operations and visualizations.
 #### We ask the following questions:
@@ -96,7 +96,7 @@ Q6: Location of Highly Rated restaurants across New Delhi ?
 
 Q7: Understaning about Common Eateries ?
 
-### 6️⃣ Inferences and Conclusions
+### 6️⃣ Inferences and Conclusions :
 
 #### We've drawn many inferences from the survey and we discuss them in this part of the project.
 

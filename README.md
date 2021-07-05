@@ -98,8 +98,8 @@ Q7: Understaning about Common Eateries ?
 
 #### We've drawn many inferences from the survey and we discuss them in this part of the project.
 
-### vii> Steps to use :
-Navigate to the Below link:
+### vii> Steps to Use :
+Navigate to the Below Link:
 #### https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/Data_Analysis_on_Restaurants_Listed_In_Zomato.ipynb
 
 Click on  Open in Collab  at the top and fork it.

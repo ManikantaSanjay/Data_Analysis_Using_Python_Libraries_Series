@@ -2,7 +2,7 @@
 This Series contains various Data Analysis projects of different Kaggle datasets and providing insights of the dataset by making use of various Python libraries.
 ## 1> Facebook Data Analytics
 ### :one: Dataset :
-#### https://www.kaggle.com/sheenabatra/facebook-data
+#### https://www.kaggle.com/sheenabatra/facebook-data :link:
 ### 2️⃣ Processes Involved :
 #### ->Data Preparation and Cleaning
 #### ->Exploratory Analysis and Visualization
@@ -15,11 +15,11 @@ This Series contains various Data Analysis projects of different Kaggle datasets
 #### ->matplotlib
 ### :four: Google Collab Notebook File :
 Navigate to the Below Link: :point_down:
-#### https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/Facebook_Data_Analysis.ipynb
+#### https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/Facebook_Data_Analysis.ipynb :link:
 
 Click on  <b>Open in Collab</b>  at the top and fork it.
 ## 2> Data Analytics On Zomato Restaurants
-### i>Content in Dataset :
+### 1️⃣ Content in Dataset :
 -> Restaurant Id
 
 -> Restaurant Name
@@ -62,14 +62,14 @@ Click on  <b>Open in Collab</b>  at the top and fork it.
 
 -> Votes
 
-### ii>Downloading the Dataset :
+### 2️⃣ Downloading the Dataset :
 #### By making use of the opendatasets library we download the dataset required for our EDA(Exploratory Data Analysis)
-#### Dataset URL : https://www.kaggle.com/shrutimehta/zomato-restaurants-data
+#### Dataset URL : https://www.kaggle.com/shrutimehta/zomato-restaurants-data :link:
 
-### iii>Importing Dataset : 
+### 3️⃣ Importing Dataset : 
 #### By making use of the pandas library we import the dataset into a pandas dataframe.
 
-### iv>Exploratory Analysis and Visualization:
+### 4️⃣ Exploratory Analysis and Visualization:
 It deals with  the following aspects : 
 #### -> Understanding the Geographical Spread 
 #### -> Understanding the Rating Aggregate, Color and Text
@@ -77,7 +77,7 @@ It deals with  the following aspects :
 #### -> Understanding the Online Delivery Distribution
 #### -> Understanding the Coverage of the City
 
-### v>Asking and Answering Questions:
+### 5️⃣ Asking and Answering Questions:
 
 #### After understanding the several insights about the restaurants present in the survey, we try to answer them using data frame operations and visualizations.
 #### We ask the following questions:
@@ -96,13 +96,13 @@ Q6: Location of Highly Rated restaurants across New Delhi ?
 
 Q7: Understaning about Common Eateries ?
 
-### vi> Inferences and Conclusions
+### 6️⃣ Inferences and Conclusions
 
 #### We've drawn many inferences from the survey and we discuss them in this part of the project.
 
-### vii> Steps to Use :
+### 7️⃣ Steps to Use :
 Navigate to the Below Link: :point_down:
-#### https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/Data_Analysis_on_Restaurants_Listed_In_Zomato.ipynb
+#### https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/Data_Analysis_on_Restaurants_Listed_In_Zomato.ipynb :link:
 
 Click on  <b>Open in Collab</b>  at the top and fork it.
 

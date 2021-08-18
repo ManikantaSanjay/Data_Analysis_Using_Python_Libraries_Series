@@ -20,47 +20,27 @@ Navigate to the Below Link: :point_down:
 Click on  <b>Open in Collab</b>  at the top and fork it.
 ## 2> Data Analytics On Zomato Restaurants
 ### 1️⃣ Content in Dataset :
--> Restaurant Id
-
--> Restaurant Name
-
--> Country Code
-
--> City
-
--> Address
-
--> Locality
-
--> Locality Verbose
-
--> Longitude
-
--> Latitude
-
--> Cuisines
-
--> Average Cost for two
-
--> Currency
-
--> Has Table booking
-
--> Has Online delivery
-
--> Is delivering
-
--> Switch to order menu
-
--> Price Range
-
--> Aggregate Rating
-
--> Rating color
-
--> Rating text
-
--> Votes
+* Restaurant Id
+* Restaurant Name
+* Country Code
+* City
+* Address
+* Locality
+* Locality Verbose
+* Longitude
+* Latitude
+* Cuisines
+* Average Cost for two
+* Currency
+* Has Table booking
+* Has Online delivery
+* Is delivering
+* Switch to order menu
+* Price Range
+* Aggregate Rating
+* Rating color
+* Rating text
+* Votes
 
 ### 2️⃣ Downloading the Dataset :
 #### By making use of the opendatasets library we download the dataset required for our EDA(Exploratory Data Analysis)

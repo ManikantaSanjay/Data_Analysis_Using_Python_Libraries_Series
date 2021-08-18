@@ -84,17 +84,35 @@ It deals with  the following aspects :
 
 Q1: From which Locality Maximum hotels are listed in Zomato ?
 
+![alt-text](https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/answers-zomato/answer-1.png?raw=true)
+
 Q2: What kind of Cuisine these highly rates restaurants offer ?
+
+![alt-text](https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/answers-zomato/answer-2.png?raw=true)
 
 Q3: How many of such restaurants accept online delivery ?
 
+![alt-text](https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/answers-zomato/answer-3.png?raw=true)
+
 Q4: Understanding the Restaurants Rating locality wise ?
+
+![alt-text](https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/answers-zomato/answer-4.png?raw=true)
 
 Q5: Understanding the Relation between Rating VS Cost of Dining ?
 
+![alt-text](https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/answers-zomato/answer-5.png?raw=true)
+
 Q6: Location of Highly Rated restaurants across New Delhi ?
 
-Q7: Understaning about Common Eateries ?
+![alt-text](https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/answers-zomato/answer-6.png?raw=true)
+
+Q7: Understanding about Common Eateries ?
+
+![alt-text](https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/answers-zomato/answer-7(1).png?raw=true)
+
+![alt-text](https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/answers-zomato/answer-7(2).png?raw=true)
+
+![alt-text](https://github.com/ManikantaSanjay/Data_Analysis_Using_Python_Libraries_Series/blob/main/answers-zomato/answer-7(3).png?raw=true)
 
 ### 6️⃣ Inferences and Conclusions :
 
